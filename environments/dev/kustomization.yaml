@@ -12,3 +12,6 @@ images:
 - digest: sha256:4b24677fe885481b654ec48b512a6ff4c909e0faefafd4e228d89856bb5893d2
   name: quay.io/monishkumar/vote-api
   newName: quay.io/monishkumar/vote-api
+- digest: sha256:f949ea99ef60d1b0a9c15b38261768887081e3ed64404fe4d2579230709d57dd
+  name: quay.io/monishkumar/vote-ui
+  newName: quay.io/monishkumar/vote-ui
